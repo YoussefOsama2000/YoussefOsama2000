@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center">
+
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
+
 <!--
 **YoussefOsama2000/YoussefOsama2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
