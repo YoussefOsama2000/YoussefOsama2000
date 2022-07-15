@@ -1,23 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <h2>Hi there 👋</h2>
+  <hr>
+  <p>
 
-<p align="center">
 
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
-</p>
-
-<!--
-**YoussefOsama2000/YoussefOsama2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </p>
+  <h4 ">
+    **" Any fool can write code that a computer can understand.. <br>Good programmers write code that humans can
+    understand.."**
+  </h4>
+  # I'm Youssef[!](https://www.linkedin.com/in/youssef-osama-mohamed-ali-49875b225/)
+</div>
