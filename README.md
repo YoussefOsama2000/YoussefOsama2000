@@ -12,11 +12,31 @@
     **" Any fool can write code that a computer can understand.. <br> Good programmers write code that humans can
     understand.."**<br>Martin Fowler
   </h4>
-  
 
 
-  # Hey , I'm [Youssef!](https://www.linkedin.com/in/youssef-osama-mohamed-ali-49875b225/)
+</div>
 
+# Hey , I'm [Youssef!](https://www.linkedin.com/in/youssef-osama-mohamed-ali-49875b225/)
+
+<br />
+<hr>
+# 🧰 My Skills
+
+<div align="center">
+
+  <code><img height="40" title="flutter" src="https://github.com/YoussefOsama2000/YoussefOsama2000/blob/main/images/flutter.png?raw=true"></code>
+  <code><img height="40" title="dart" src="https://github.com/YoussefOsama2000/YoussefOsama2000/blob/main/images/dart-programming-language.png?raw=true"></code>
+  <code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+  <code><img height="40" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img height="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
   <br />
+  <code><img height="40" title="Embedded System" src="https://github.com/YoussefOsama2000/YoussefOsama2000/blob/main/images/embeded.jpg?raw=true"></code>
+  <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" title="Assembly" src="https://github.com/YoussefOsama2000/YoussefOsama2000/blob/main/images/assembly.png?raw=true"></code>
+  <code><img height="40" title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+
+
+
 
 </div>
