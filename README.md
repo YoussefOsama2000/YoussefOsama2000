@@ -53,6 +53,7 @@
   <li> 🕵🏼‍♂️ currently working on improving my Embedded system knowledge like woking with differant prossecor
     archtecture </li>
 </ul>
+<br>
 <hr>
 # 🧰 <u> My Skills</u>
 <div align="center">
