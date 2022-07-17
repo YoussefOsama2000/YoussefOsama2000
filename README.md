@@ -32,7 +32,7 @@
 </ul>
 
 <hr>
-# 🧰 <u> My Skills</u>
+# 🧰 My Skills
 <div align="center">
 
 
