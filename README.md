@@ -30,7 +30,7 @@
     archtecture </li>
 </ul>
 
-
+<hr>
 # 🧰 <u> My Skills</u>
 <div align="center">
 
