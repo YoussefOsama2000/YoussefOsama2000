@@ -32,10 +32,9 @@
 </ul>
 
 <hr>
+
 # 🧰 My Skills
 <div align="center">
-
-
   <code><img height="40" title="flutter" src="https://github.com/YoussefOsama2000/YoussefOsama2000/blob/main/images/flutter.png?raw=true"></code>
   <code><img height="40" title="dart" src="https://github.com/YoussefOsama2000/YoussefOsama2000/blob/main/images/dart-programming-language.png?raw=true"></code>
   <code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
