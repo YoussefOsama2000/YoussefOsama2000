@@ -10,10 +10,12 @@
     understand.."**<br>Martin Fowler
   </h4>
 </div>
+<br>
+<hr>
+<br>
 
 # Hey , I'm [Youssef!](https://www.linkedin.com/in/youssef-osama-mohamed-ali-49875b225/)
 
-<br>
 <div align="center">
 
 
@@ -46,8 +48,12 @@
       draggable="false" />
   </a>
 </div>
+<br>
 <hr>
+<br>
+
 # 😄 about me
+
 <ul>
   <li> 🎓 Electronics and electrical communication engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of
       Engineering Cairo University</a> </li>
@@ -58,7 +64,10 @@
 </ul>
 <br>
 <hr>
+<br>
+
 # 🧰 <u> My Skills</u>
+
 <div align="center">
   <code><img height="40" title="flutter" src="https://github.com/YoussefOsama2000/YoussefOsama2000/blob/main/images/flutter.png?raw=true"></code>
   <code><img height="40" title="dart" src="https://github.com/YoussefOsama2000/YoussefOsama2000/blob/main/images/dart-programming-language.png?raw=true"></code>
@@ -74,3 +83,6 @@
   <br />
   <hr>
 </div>
+<br>
+<hr>
+<br>
