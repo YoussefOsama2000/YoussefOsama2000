@@ -20,10 +20,18 @@
 
 <br />
 <hr>
-<h1>
-  # 🧰 <u> My Skills</u>
-</h1>
 
+# 😄 about me
+<ul>
+  <li> 🎓 Electronics and electrical communication engineer Student </li>
+  <li> 🧑‍💻 passionate flutter developer for mobile apps and more...</li>
+  <li> 🧑🏻‍🔧 have my special mix between mobile app development and Embedded system development</li>
+  <li> 🕵🏼‍♂️ currently working on improving my Embedded system knowledge like woking with differant prossecor
+    archtecture </li>
+</ul>
+
+
+# 🧰 <u> My Skills</u>
 <div align="center">
 
 
@@ -38,8 +46,7 @@
   <code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" title="Assembly" src="https://github.com/YoussefOsama2000/YoussefOsama2000/blob/main/images/assembly.png?raw=true"></code>
   <code><img height="40" title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-
-
-
+  <br />
+  <hr>
 
 </div>
