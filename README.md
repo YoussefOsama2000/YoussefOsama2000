@@ -53,7 +53,8 @@
 <br>
 
 # 😄 about me
-
+<ul>
+https://github.com/YoussefOsama2000/YoussefOsama2000/edit/main/README.md
 <ul>
   <li> 🎓 Electronics and electrical communication engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of
       Engineering Cairo University</a> </li>
