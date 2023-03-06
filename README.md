@@ -20,6 +20,7 @@
 
 
   <a href="https://www.linkedin.com/in/youssef-osama-mohamed-ali-49875b225/"
+     <img align="left" alt="Youssef's LinkdeIN"
       width="30px"
       src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png"
       draggable="false" /></a>
