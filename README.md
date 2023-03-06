@@ -62,6 +62,7 @@ Looking forward to gain more experience in different technology threads to enric
   <li> 🎓 Electronics and electrical communication engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of
       Engineering Cairo University</a> </li>
   <li> 🧑‍💻 passionate flutter developer for mobile apps and more...</li>
+    <li> 💾 Hardware Verilog designer and verifier </a> </li>
   <li> 🧑🏻‍🔧 have my special mix between mobile app development and Embedded system development</li>
   <li> 🕵🏼‍♂️ currently working on improving my Embedded system knowledge like woking with differant prossecor
     archtecture </li>
