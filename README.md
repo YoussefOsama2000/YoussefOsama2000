@@ -76,8 +76,8 @@ Looking forward to gain more experience in different technology threads to enric
   <code><img height="40" title="dart" src="https://github.com/YoussefOsama2000/YoussefOsama2000/blob/main/images/dart-programming-language.png?raw=true"></code>
   <code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
   <code><img height="40" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img height="40" title="Verilog" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img height="40" title="FPGA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg></code>
+  <code><img height="40" title="Verilog" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/file-type-verilog.png"></code>
+  <code><img height="40" title="FPGA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/FpgaServices.png></code>
   <br />
   <code><img height="40" title="Embedded System" src="https://github.com/YoussefOsama2000/YoussefOsama2000/blob/main/images/embeded.jpg?raw=true"></code>
   <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
